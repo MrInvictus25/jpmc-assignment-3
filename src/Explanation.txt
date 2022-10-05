@@ -1,0 +1,22 @@
+The produced graph might be a valuable tool for traders. The upper_bound and lower_bound indicate
+the range of the ratio, while the trigger_alert field provides a threshold value in this turn that
+allows it to be notified of a significant move.
+
+Besides that, a trader can draw several insights.
+First one, the trader can quickly see the current value of the ratio and compare it according to the
+historical average. If the ratio is moving within the range of the upper_bound and lower_bound,
+the trader may consider the two variables to be in a typical range. However, if the ratio goes
+beyond the upper_bound or lower_bound, the trader can identify when the ratio is moving too far
+from the average historical correlation.
+
+Second, the trader can use the upper_bound and lower_bound to identify potential levels and conditions
+for the ratio. If the ratio approaches the upper_bound, the trader may expect it will encounter
+demand for selling, but if the ratio approaches the lower_bound, the trader may expect it will
+collide with interest for buying it.
+
+Third, the trigger_alert field is useful for the trader to be notified when the ratio reaches a
+significant level or when it goes through important alterations. All these facts might be an identification
+for further browsing and figuring out a cause.
+
+All these together mai aid traders make reasonable trading decisions based on the current state of
+the market.
